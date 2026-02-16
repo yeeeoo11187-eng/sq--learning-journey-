@@ -1,0 +1,11 @@
+select *
+From employee_demographics As Dem
+Right Join  employee_salary As Sal 
+On Dem.employee_id = Sal.employee_id;
+
+
+
+
+
+
+
