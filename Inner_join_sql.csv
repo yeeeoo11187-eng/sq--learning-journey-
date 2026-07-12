@@ -1,0 +1,13 @@
+employee_id,first_name,occupation,age,salary
+1,Leslie,"Deputy Director of Parks and Recreation",44,75000
+3,Tom,Entrepreneur,36,50000
+4,April,"Assistant to the Director of Parks and Recreation",29,25000
+5,Jerry,"Office Manager",61,50000
+6,Donna,"Office Manager",46,60000
+7,Ann,Nurse,35,55000
+8,Chris,"City Manager",43,90000
+9,Ben,"State Auditor",38,70000
+10,Andy,"Shoe Shiner and Musician",34,20000
+11,Mark,"City Planner",40,57000
+12,Craig,"Parks Director",37,65000
+17,Yee,CEO,NULL,180000
