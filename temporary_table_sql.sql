@@ -22,3 +22,4 @@ Where salary >= 50000);
 
 select *
 From salary_over_50k;
+
